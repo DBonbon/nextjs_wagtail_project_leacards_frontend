@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BlogPage Test 1`] = `
+<div>
+  <div
+    class="flex flex-col min-h-screen"
+  >
+    <nav
+      class="bg-white border-b border-opacity-75 border-gray-300 dark:bg-gray-900 dark:text-white dark:border-gray-500"
+      data-headlessui-state=""
+    >
+      <div
+        class="w-full max-w-7xl mx-auto px-2 sm:px-6 lg:px-8"
+      >
+        <div
+          class="relative flex items-center justify-between h-16"
+        >
+          <div
+            class="absolute inset-y-0 left-0 flex items-center sm:hidden"
+          >
+            <button
+              aria-expanded="false"
+              class="inline-flex items-center justify-center rounded-md p-2 text-gray-400 hover:bg-gray-700 hover:text-white focus:outline-none focus:ring-2 focus:ring-inset focus:ring-white"
+              data-headlessui-state=""
+              id="headlessui-disclosure-button-:r0:"
+              type="button"
+            >
+              <span
+                class="sr-only"
+              >
+                Open main menu
+              </span>
+              <svg
+                aria-hidden="true"
+                class="block h-6 w-6"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.5"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+            </button>
+          </div>
+          <div
+            class="flex-1 flex items-center justify-center sm:items-stretch sm:justify-start"
+          >
+            <div
+              class="flex-shrink-0 flex items-center"
+            >
+              <a
+                href="/"
+              >
+                <span
+                  class="text-bold text-grey-800"
+                >
+                  Next.js Wagtail Demo
+                </span>
+              </a>
+            </div>
+            <div
+              class="hidden sm:block sm:ml-6"
+            >
+              <div
+                class="flex space-x-4"
+              >
+                <a
+                  class="text-gray-500 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  href="#"
+                >
+                  Dashboard
+                </a>
+                <a
+                  class="text-gray-500 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  href="#"
+                >
+                  Team
+                </a>
+                <a
+                  class="text-gray-500 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  href="#"
+                >
+                  Projects
+                </a>
+                <a
+                  class="text-gray-500 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium"
+                  href="#"
+                >
+                  Calendar
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div
+      class="w-full max-w-7xl mx-auto px-2 sm:px-6 lg:px-8"
+    >
+      <div
+        class="flex flex-row flex-wrap py-4"
+      >
+        <div
+          data-testid="PostPageCardContainer"
+        />
+        <div
+          data-testid="SideBar"
+        />
+      </div>
+    </div>
+    <footer
+      class="mt-auto py-7 bg-white border-t border-opacity-75 border-gray-300"
+    >
+      <div
+        class="container mx-auto"
+      >
+        <p
+          class="m-0 text-center text-blue-700 hover:underline"
+        >
+          Built by
+           
+          <a
+            href="https://www.accordbox.com/"
+          >
+            michaelyin@accordbox.com
+          </a>
+        </p>
+      </div>
+    </footer>
+  </div>
+</div>
+`;
